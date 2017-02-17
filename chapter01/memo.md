@@ -49,3 +49,8 @@ $ pip install pillow
 
 ## pythonを試す
 
+```
+>>> def hello(object)
+```
+
+## NumPy
